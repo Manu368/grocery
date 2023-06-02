@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#bg-container01{
+    background-color: #27264a;
+    background-size: cover;
+    padding: 45px;
+
+}
+.heading01 {
+    color:#fff;
+    text-align: center;
+    padding: 25px;
+}
+.list-container {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 30px 45px 45px 45px;
+    
+}
+.list-items {
+    color: #000;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+ul{
+    padding-left: 15px; 
+}
+#manohar01 {
+    margin-top: 25px;
+    width: 15px;
+    height: 15px;
+}
+.item01 {
+    color: #fff;
+    font-size: 18px;
+    padding-left: 10px;
+}
